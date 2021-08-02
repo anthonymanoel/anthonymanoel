@@ -8,3 +8,8 @@ ele/dele
 ###### Buscando ser poliglota. <h6>
 
 
+<div>
+  <a href="https://github.com/anthonymanoel">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonymanoel&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymanoel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
