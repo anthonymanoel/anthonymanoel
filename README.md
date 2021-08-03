@@ -1,6 +1,7 @@
 # Hey, I'm Anthony Manoel (17) <h1>
 #### I'm learning Python <h2>
 #### Olá, eu sou o Anthony Manoel <h4>
+  ###### Fazendo curso de Programador para Front-End
 - _Aprendendo linguagem de programação e entrando neste mundo desde o ínicio de 2021_
 - __Tenho procurado aprender Python__
 - Quero aprender _C, HTML, JAVA_
@@ -8,7 +9,7 @@
 ###### Buscando ser poliglota. <h6>
 <div>
   <a href="https://github.com/anthonymanoel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymanoel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymanoel&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="anthony-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
