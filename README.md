@@ -1,8 +1,9 @@
 # Hey, I'm Anthony Manoel (17) <h1>
 ## Olá, eu sou o Anthony Manoel <h4>
+  ## Salut, je m'appelle Anthony Manoel, j'ai 17
   ###### Programador Front-End
 - _Aprendendo linguagem de programação e entrando neste mundo desde o ínicio de 2019_
-- __Tenho procurado aprender Python__
+- __Tenho procurado aprender JavaScript corretamente e seus respectivos frameworks react-node.js__
 - HTML,CSS and JavaScript
 - __SL 63:1-5__
 ###### Portuguese, English and learning French. <h6>
