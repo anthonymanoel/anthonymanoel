@@ -1,7 +1,7 @@
 # Hey, I'm Anthony Manoel (17) <h1>
 ## Olá, eu sou o Anthony Manoel <h4>
   ## Salut, je m'appelle Anthony Manoel, j'ai 17
-  ###### Programador Front-End
+  #### Programador Front-End
 - _Aprendendo linguagem de programação e entrando neste mundo desde o ínicio de 2019_
 - __Tenho procurado aprender JavaScript corretamente e seus respectivos frameworks react-node.js__
 - HTML,CSS and JavaScript
@@ -20,4 +20,7 @@
 <div> 
   <a href="https://www.instagram.com/_anthonymanoel__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:anthonymanoel12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/anthonymanoel/">
+    <span class="iconify" data-icon="logos:linkedin-icon" style="font-size: 40px;"></span>
+  </a>
   </div>
