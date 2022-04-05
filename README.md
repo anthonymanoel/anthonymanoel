@@ -4,8 +4,8 @@
   #### Programador Front-End
 - _Aprendendo linguagem de programação e entrando neste mundo desde o ínicio de 2019_
 - __Tenho procurado aprender JavaScript corretamente e seus respectivos frameworks react-node.js__
-- HTML,CSS and JavaScript
-- __SL 63:1-5__
+- CSS; JS; React, Vue and NodeJs
+- __"We men of knowleadge, don't know about ourselves, how can we know something that we won't search.''__
 ###### Portuguese, English and learning French. <h6>
 <div>
   <a href="https://github.com/anthonymanoel">
