@@ -1,10 +1,11 @@
-# Hey, I'm Anthony Manoel (17) <h1>
+# Hey, I'm Anthony Manoel (18) <h1>
 ## Olá, eu sou o Anthony Manoel <h4>
-  ## Salut, je m'appelle Anthony Manoel, j'ai 17
+  ## Salut, je m'appelle Anthony Manoel, j'ai 18
   #### Programador Front-End
+  ### https://anthonymanoel-github-io-portfolio.vercel.app/ - responsive mode isn't good
 - _Aprendendo linguagem de programação e entrando neste mundo desde o ínicio de 2021_
 - __Tenho procurado aprender JavaScript corretamente e seus respectivos frameworks react-node.js__
-- CSS; JS; React, Vue and NodeJs
+- CSS, JavaScript, ReactJS & NodeJs
 - __"We men of knowleadge, don't know about ourselves, how can we know something that we won't search.''__
 ###### Portuguese, English and learning French. <h6>
 <div>
@@ -15,7 +16,7 @@
   <img align="center" alt="anthony-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="anthony-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="anthony-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="anthony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="anthony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react.svg"> 
 </div>
 <div> 
   <a href="https://www.instagram.com/_anthonymanoel__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
