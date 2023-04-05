@@ -1,12 +1,13 @@
-# Hey, I'm Anthony Manoel (18) <h1>
-## Olá, eu sou o Anthony Manoel <h4>
-  ## Salut, je m'appelle Anthony Manoel, j'ai 18
-  #### Programador Front-End
-  ### https://anthonymanoel-github-io-portfolio.vercel.app/ - responsive mode isn't good
-- _Aprendendo linguagem de programação e entrando neste mundo desde o ínicio de 2021_
-- __Tenho procurado aprender JavaScript corretamente e seus respectivos frameworks react-node.js__
-- CSS, JavaScript, ReactJS & NodeJs
 - __"We men of knowleadge, don't know about ourselves, how can we know something that we won't search.''__
+
+# Hey, I'm Anthony Manoel (19) <h1>
+## Olá, eu sou o Anthony Manoel <h4>
+  ## Salut, je m'appelle Anthony Manoel, j'ai 19
+  #### Programador Front-End
+  ### https://portfolio-kappa-murex-95.vercel.app/ - this is my ''actual'' portfolio, i've been producing another one soon will put here.
+- _Analist and Developer Systems_
+- __Learning Java, Python and JavaScript__
+- CSS, JavaScript, ReactJS & Java
 ###### Portuguese, English and learning French. <h6>
 <div>
   <a href="https://github.com/anthonymanoel">
