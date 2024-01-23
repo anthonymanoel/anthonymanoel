@@ -1,14 +1,11 @@
-- __"We men of knowleadge, don't know about ourselves, how can we know something that we won't search.''__
-
-# Hey, I'm Anthony Manoel (19) <h1>
-## Olá, eu sou o Anthony Manoel <h4>
-  ## Salut, je m'appelle Anthony Manoel, j'ai 19
-  #### Programador Front-End
+# Hey, I'm Anthony Manoel (20) <h1>
+## Olá, eu sou o Anthony Manoel (20) <h4>
+  ## Salut, je m'appelle Anthony Manoel, j'ai 20
+  #### Front-End & Home Automation
   ### https://portfolio-kappa-murex-95.vercel.app/ - this is my ''actual'' portfolio, i've been producing another one soon will put here.
 - _Analist and Developer Systems_
-- __Learning Java, Python and JavaScript__
-- CSS, JavaScript, ReactJS & Java
-###### Portuguese, English and learning French. <h6>
+- __Learning JavaScript, C++ & C__
+###### Portuguese, English and French. <h6>
 <div>
   <a href="https://github.com/anthonymanoel">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymanoel&layout=compact&langs_count=7&theme=dark](https://github-readme-stats.vercel.app/api?anthonymanoel=anuraghazra"/>
